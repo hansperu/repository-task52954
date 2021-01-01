@@ -2,6 +2,8 @@
 # 52954 -- MACHINE LEARNING AND STATISTICS - Tasks 2020
 ## Student: Hans Perez Rubin de Celis - G00387884
 
+This work has been developed by searching for information in the GMIT library database and web pages.
+
 My final work on these tasks can be found in the Jupyter Notebook **Python SQRT2.ipynb** file.
 
 ![imagen machine](https://www.uu.se/digitalAssets/805/c_805644-l_1-k_image.jpg)
