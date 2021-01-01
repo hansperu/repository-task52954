@@ -2,7 +2,7 @@
 # 52954 -- MACHINE LEARNING AND STATISTICS - Tasks 2020
 ## Student: Hans Perez Rubin de Celis - G00387884
 
-My final work on these tasks can be found in the Jupyter Notebook Python **SQRT2.ipynb** file.
+My final work on these tasks can be found in the Jupyter Notebook **Python SQRT2.ipynb** file.
 
 ## Task 1
 Write a Python function called `sqrt2` that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
