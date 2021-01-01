@@ -4,6 +4,7 @@
 
 My final work on these tasks can be found in the Jupyter Notebook **Python SQRT2.ipynb** file.
 
+![imagen machine](https://www.uu.se/digitalAssets/805/c_805644-l_1-k_image.jpg)
 ## Task 1
 Write a Python function called `sqrt2` that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.
 
